@@ -11,3 +11,6 @@ This project implements an image segmentation model using the UNet architecture.
 
 # Prerequisites
 pip install torch torchvision pillow matplotlib tqdm
+
+# Result
+![image](https://github.com/xmonstabebex/image-segmentation/assets/89215956/a2ba44d8-0440-43ad-a998-b646d346011d)
